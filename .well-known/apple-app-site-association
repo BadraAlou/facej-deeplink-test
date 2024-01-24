@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "Z3GJC2A284.com.facej-api-prod.facej-app",
+        "paths": [ "*", "/" ]
+      }
+    ]
+  }
+}
